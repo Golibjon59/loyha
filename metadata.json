@@ -1,0 +1,6 @@
+{
+  "name": "InvenTrack Mobile - Korporativ Inventar Boshqaruv",
+  "description": "InvenTrack korporativ inventar boshqaruv tizimi mobil ilovasi: Dashboard, QR Skaner, Jihoz kartasi va Bottom Navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
